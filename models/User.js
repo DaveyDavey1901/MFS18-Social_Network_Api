@@ -1,6 +1,6 @@
 const { Schema, model } = require("mongoose");
 
-// user schema regex comes from moongoose matching validation
+// user schema regex comes from mongoose matching validation
 const UserSchema = new Schema(
   {
     username: {
