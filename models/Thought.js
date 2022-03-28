@@ -7,7 +7,8 @@ const thoughtSchema = new Schema(
   {
     thoughtText: {
       type: String,
-      required: true,
+      required: "Tell me something, anything?",
+      minlength: 1,
       maxlength: 280,
     },
     createdAt: {
@@ -25,7 +26,6 @@ const thoughtSchema = new Schema(
   },
   {
     toJSON: {
-      virtuals: true,
       getters: true,
     },
     id: false,
