@@ -10,7 +10,7 @@
   7. [GitHub](##GitHub-Account)
   8. [E-mail](##E-mail)
   
-## :small_blue_diamond: Description
+## :small_blue_diamond: [Description]
 
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. The technologies this application uses are Express.js, Node.js, MongoDB and Mongoose to allow you to Create, read, update and delete users, thoughts, friend lists and thought reactions.
 
@@ -23,7 +23,7 @@ An API for a social network web application where users can share their thoughts
 
 
 
-## :small_blue_diamond: Installation
+## :small_blue_diamond: [Installation]
 
   1. Clone GitHub repository
   2. npm init
