@@ -10,7 +10,7 @@
   7. [GitHub](##GitHub-Account)
   8. [E-mail](##E-mail)
   
-## :small_blue_diamond: [Description]
+## :small_blue_diamond: Description
 
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. The technologies this application uses are Express.js, Node.js, MongoDB and Mongoose to allow you to Create, read, update and delete users, thoughts, friend lists and thought reactions.
 
@@ -23,7 +23,7 @@ An API for a social network web application where users can share their thoughts
 
 
 
-## :small_blue_diamond: [Installation]
+## :small_blue_diamond: Installation
 
   1. Clone GitHub repository
   2. npm init
@@ -33,14 +33,13 @@ An API for a social network web application where users can share their thoughts
 
 To start the application once everything is installed you can `run npm start` to start the network
 
-
 ## :small_blue_diamond: Contributing People and Resources
 
 David Davies
 
 ## :small_blue_diamond: Repository Details and Link.
 
-Feel free to contact me for an improvemnet ideas
+Feel free to contact me for an improvement ideas
 
 ## :small_blue_diamond: Tests
 
@@ -54,7 +53,7 @@ Insomnia and Postman Agent
 
 ## :small_blue_diamond: Questions:
 
-contact me if you have any questions about the .
+contact me if you have any questions about the MFS18-Social_Network_Api.
 
 ## :small_blue_diamond: GitHub Account
 
