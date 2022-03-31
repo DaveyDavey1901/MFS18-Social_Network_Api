@@ -1,7 +1,7 @@
 # :small_orange_diamond: MFS18-Social_Network_Api
 ## Table of Contents:
   1. [Description](#Description) 
-  2. [Installation](#Installation)
+  2. [Installation](#installation)
   3. [Usage](#Usage)  
   4. [Contributing](#Contributing-and-Resources)
   5. [GitHub Repository](#Repository-Details-Link)
