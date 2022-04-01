@@ -1,4 +1,4 @@
-const { Schema, model, types } = require("mongoose");
+const { Schema, model} = require("mongoose");
 const reactionSchema = require("./Reaction");
 const moment = require("moment");
 
@@ -15,7 +15,7 @@ const thoughtSchema = new Schema(
       type: Date,
       default: Date.now,
       get: (createdAtValue) =>
-        moment(createdAtValue).format("MMM DD, YYYY [at] hh:mm a"),
+        moment(createdAtValue).format("MMM DD, YYYY [at] hh:mm "),
     },
     username: {
       type: String,
@@ -32,13 +32,10 @@ const thoughtSchema = new Schema(
   }
 );
 
-// retrieves the length of the thought's `reactions` array field on query.
 thoughtSchema.virtual("reactionCount").get(function () {
   return this.reactions.length;
 });
 
-// create the User model using the UserSchema
 const Thought = model("Thought", thoughtSchema);
 
-// export the User model
-module.exports = { Thought };
+module.exports = Thought;
