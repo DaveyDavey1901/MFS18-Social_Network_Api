@@ -18,7 +18,9 @@ An API for a social network web application where users can share their thoughts
 |<img src="" width="600">| 
 
 
-:file_folder:[Click Here to View the Screencast Video]()
+:file_folder:[Click Here to View the Screencast Video for USERS](https://drive.google.com/file/d/1I--MPYYnVwdZiuu-GHUHsgBa6-pBwpoz/view)
+
+:file_folder:[Click Here to View the Screencast Video Friends/Thoughts/Reactions]()
 
 
 
