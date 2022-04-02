@@ -15,7 +15,7 @@
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. The technologies this application uses are Express.js, Node.js, MongoDB and Mongoose to allow you to Create, read, update and delete users, thoughts, friend lists and thought reactions.
 
 
-|<img src="" width="600">| 
+|<img src="public\img\Social Media App Users.gif" width="600">| 
 
 
 :file_folder:[Click Here to View the Screencast Video for USERS](https://drive.google.com/file/d/1I--MPYYnVwdZiuu-GHUHsgBa6-pBwpoz/view)
